@@ -4,12 +4,10 @@
   <li><b>Programming languages:</b> c, c++, glsl, python, java, php, sql, html, css, javascript</li>
   <li><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,arduino,androidstudio"/></li>
   <li><b>Favorite frameworks:</b> tensorflow, tensorrt, pytorch, opencv, gtk, webkit, esp-idf, avr, arduino </li>
-  <li><img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,raspberrypi,windows"/></li>
+  <li><img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,raspberrypi,windows,ai"/></li>
   <li><b>Favorite OS:</b> linux, debian, ubuntu, raspberry, armbian and bare metal firmware skill</li>
-  <li>Machine learning / Deep learning: CNN, RNN, GAN, Transformer, NLP, LSTM, ASR technique, Text to image/video and more</b></li>
+  <li><b>Machine learning / Deep learning:</b> CNN, RNN, GAN, Transformer, NLP, LSTM, ASR technique, Text to image/video and more</b></li>
 </ul>
-
-<p align="center">custom diffusion</p>
 <p align="center">
 <img src="https://github.com/kashimAstro/kashimAstro/blob/master/IA_IMMAGINE_GEN.jpeg"/>
 <!--<img src="https://github.com/kashimAstro/kashimAstro/blob/master/human.gif"/>-->
